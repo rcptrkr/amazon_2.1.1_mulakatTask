@@ -4,6 +4,7 @@ Feature: Amazon Senaryosu
   Background: kullanici amazon web sayfasına erisim saglamali
     Given kullanici "amazonUrl" anasayfasina gider
     And kullanici "amazonUrl" anasayfasinin acildigini kontrol eder
+    #calistigim PC'de cerezler acilmadigi icin yoruma alindi.
     #And kullanici cerez tercihlerinden cerezleri kabul et secenegini secer
     Given kullanici siteye login olur
 
