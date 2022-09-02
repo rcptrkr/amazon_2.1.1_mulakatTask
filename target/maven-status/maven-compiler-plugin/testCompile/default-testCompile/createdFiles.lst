@@ -1,9 +1,0 @@
-pages\AmazonPage.class
-utilities\ConfigReader.class
-utilities\ReusableMethods$2.class
-utilities\ReusableMethods$1.class
-runners\TestRunner.class
-stepDefinitions\AmazonStepDefi.class
-utilities\Driver.class
-hooks\Hooks.class
-utilities\ReusableMethods.class
